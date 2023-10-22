@@ -1,4 +1,6 @@
-# fast_generation
+# Fast racing line generation
+
+Python3 implementation of the method described in https://arxiv.org/abs/1902.00606
 
 + It is written in <b>Python 3</b>
 
